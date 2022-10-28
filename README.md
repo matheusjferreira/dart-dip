@@ -1,4 +1,4 @@
-> # README Minimalist Template
+> # Dart DIP (Dependency Inversion Principle) Example
 
 >:warning: This application is part of a presentation, whose slides are in:
 
