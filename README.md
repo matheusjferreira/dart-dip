@@ -36,15 +36,15 @@ Dart SDK version: 2.18.2;
 
 > ## Special Thanks:
 
-Ana Goulart;
-Bernardo Luz;
-Everton BellMann;
-Davi Junior;
-Gustavo de Assis;
-Leonardo Melo;
-Letícia Yamane;
-Luciano Yamane;
-Vinicius Dias;
+    Ana Goulart;
+    Bernardo Luz;
+    Everton BellMann;
+    Davi Junior;
+    Gustavo de Assis;
+    Leonardo Melo;
+    Letícia Yamane;
+    Luciano Yamane;
+    Vinicius Dias;
 
 > ## License:
 
